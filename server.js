@@ -13,7 +13,7 @@ const routeAuth = require('./routes/Routes-Data');
 const app = express();
 const port = process.env.PORT;
 // const MONGODB_URI = process.env.MONGODB_URI;
-const MongoDB_URI = 'mongodb+srv://Vercel-Admin-ToA:J3UV7LZSB1HYzhdg@toa.9likqlg.mongodb.net/?retryWrites=true&w=majority';
+const MONGODB_URI = 'mongodb+srv://Vercel-Admin-ToA:J3UV7LZSB1HYzhdg@toa.9likqlg.mongodb.net/?retryWrites=true&w=majority';
 
 // Middleware
 app.use(bodyParser.json());
