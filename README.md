@@ -1,1 +1,1 @@
-brone.ub.ac.id
+https://brone.ub.ac.id
